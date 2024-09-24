@@ -102,3 +102,28 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---
 
 Let me know if you'd like any modifications to the file!
+
+---
+
+# Output
+
+### Adding Questions in Database
+![image](https://github.com/user-attachments/assets/0e3c8b2a-0d92-4b92-b37d-34da47531c78)
+
+### Adding Participants' Details
+![image](https://github.com/user-attachments/assets/53d9c67c-28c9-45e9-b0b4-9a6fd8d0af5f)
+
+### Adding Scores of the participants
+![image](https://github.com/user-attachments/assets/7bf343f4-7ee0-431f-9f93-25575ffb1394)
+
+### For displaying questions with answers
+![image](https://github.com/user-attachments/assets/1b14df7c-3b93-4874-9d98-4c47578965f0)
+
+### Displaying Scores of Participants
+![image](https://github.com/user-attachments/assets/56cc1412-1c74-48f9-afab-403551451fe1)
+
+### Searching details of Participants
+![image](https://github.com/user-attachments/assets/45c03b5a-7a67-4da2-8087-049b6c12ae92)
+
+### Deleting any question from Database
+![image](https://github.com/user-attachments/assets/b7185f20-13df-4c37-9eb1-9428fef0aad6)
