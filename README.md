@@ -29,8 +29,8 @@ This project is a console-based Quiz Competition Management Program built using 
 
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/your-username/quiz_competition_management.git
-   cd quiz_competition_management
+   git clone https://github.com/SahilLodwal-2003/quiz_comp.git
+   cd quiz_comp
    ```
 
 2. **Install MySQL Connector**:
